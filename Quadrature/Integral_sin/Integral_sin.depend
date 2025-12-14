@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1760015846 source:c:\users\aless\onedrive - università degli studi di torino\secondo anno\algoritmi numerici\quadrature\integral_sin\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1760259021 source:c:\users\aless\onedrive - università degli studi di torino\secondo anno\algoritmi numerici\quadrature\integral_sin\integral_sin.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<fstream>
+
